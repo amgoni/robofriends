@@ -1,62 +1,62 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Amin Goni',
+    username: '47',
+    email: 'misfit@47.com'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Saifullah Abbas Lame',
+    username: 'Saif',
+    email: 'saif@skyllen.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Umar Abdulaziz Jada',
+    username: 'Adzumr',
+    email: 'adzumr@cheefy.com'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Wisdom Kalla',
+    username: 'Prime',
+    email: 'wizzy@prime.com'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Mustapha Tasiu Yusuf',
+    username: 'Musty',
+    email: 'musty@girls.com'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Al-Amin Ibrahim Goni',
+    username: 'Presido',
+    email: 'presido@jamjam.com'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Muhammad Nasir',
+    username: 'Nas',
+    email: 'nas@memes.com'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Dauda Muhammad Tatala',
+    username: 'Baba Alhaji',
+    email: 'classrep@mamansadiq.com'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    name: 'Edward Nindin',
+    username: 'Edeeseen',
+    email: 'eddie@bighead.com'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'Aliyu Hassan',
+    username: 'CompZomb',
+    email: 'CompZomb@dannewuya.com'
   }
 ];
